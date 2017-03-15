@@ -1,0 +1,74 @@
+[{
+    "year": 2013,
+    "offenses": [{
+        "type": "Parking offence",
+        "PN": 72362,
+        "FaceValue": 8136122
+    }, {
+        "type": "Fare Evasion/False Information",
+        "PN": 69705,
+        "FaceValue": 13038900
+    }, {
+        "type": "Compliance/Safety/Anti-social/Offensive behaviour",
+        "PN": 25172,
+        "FaceValue": 6652750
+    }, {
+        "type": "Vehicle offence",
+        "PN": 652,
+        "FaceValue": 121359
+    }, {
+        "type": "Feet on seat",
+        "PN": 330,
+        "FaceValue": 35000
+    }, {
+        "type": "Smoking Offence",
+        "PN": 371,
+        "FaceValue": 87500
+    }, {
+        "type": "Littering Offence",
+        "PN": 108,
+        "FaceValue": 17860
+    }, {
+        "type": "Animal Offence",
+        "PN": 91,
+        "FaceValue": 22150
+    }]
+}, 
+{
+    "year": 2014,
+    "offenses": [{
+        "type": "Parking offence",
+        "PN": 91891,
+        "FaceValue": 9297100
+    }, {
+        "type": "Fare Evasion/False Information",
+        "PN": 69705,
+        "FaceValue": 13038900
+    }, {
+        "type": "Compliance/Safety/Anti-social/Offensive behaviour",
+        "PN": 32189,
+        "FaceValue": 7131850
+    }, {
+        "type": "Vehicle offence",
+        "PN": 781,
+        "FaceValue": 212132
+    }, {
+        "type": "Feet on seat",
+        "PN": 617,
+        "FaceValue": 61700
+    }, {
+        "type": "Smoking Offence",
+        "PN": 450,
+        "FaceValue": 100250
+    }, {
+        "type": "Littering Offence",
+        "PN": 167,
+        "FaceValue": 29150
+    }, {
+        "type": "Animal Offence",
+        "PN": 123,
+        "FaceValue": 25171
+    }]
+}
+]
+
